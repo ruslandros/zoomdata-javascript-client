@@ -10,5 +10,7 @@ A sample project to illustrate how to use the Zoomdata Javascript Client. This p
 
 ####Getting Started
 1. Clone the repo
-2. cd to the repo folder and run ```npm install && bower install```
-3. run ```grunt serve``` to run it from your local environment
+2. ```cd``` to the repo folder and run ```npm install && bower install```
+3. Edit ```app/scripts/main.js``` to match your own environment
+4. run ```grunt serve``` to run it from your local environment
+
