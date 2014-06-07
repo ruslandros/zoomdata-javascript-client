@@ -3,9 +3,9 @@
 
 $(function () {
     var zoomdataClient = new ZoomdataClient({
-        apiKey: '539203d13004281b5085c8eb',
-        host: 'localhost:8080/zoomdata',
-        secure: false
+        apiKey: '53874508e4b0a67cc17eb82a',
+        host: 'dev.zoomdata.com/zoomdata',
+        secure: true
     });
 
     zoomdataClient.visualize({
