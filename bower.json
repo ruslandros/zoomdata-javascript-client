@@ -3,7 +3,6 @@
   "private": true,
   "dependencies": {
     "jquery": "~1.11.0",
-    "jqueryui": "~1.10.4",
     "backbone": "~1.1.2",
     "jstz-detect": "~1.0.5",
     "requirejs": "~2.1.14"

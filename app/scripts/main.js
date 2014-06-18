@@ -3,7 +3,7 @@
 
 $(function () {
     var zoomdataClient = new ZoomdataClient({
-        apiKey: '53874508e4b0a67cc17eb82a',
+        apiKey: '53a0d9ffe4b038d2b3933ea2',
         host: 'dev.zoomdata.com/zoomdata',
         secure: true
     });
